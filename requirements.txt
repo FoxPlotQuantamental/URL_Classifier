@@ -1,0 +1,16 @@
+annotate
+beautifulsoup4
+frontier
+gensim
+gym
+keras
+keras_nightly
+lxml
+nltk
+numpy
+pandas
+requests
+scikit_learn
+tensorflow
+# tf_nightly_gpu==2.7.0.dev20210728
+# logging
